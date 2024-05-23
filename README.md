@@ -1,7 +1,3 @@
-# Shared Tree Demo
-
-This app demonstrates how to create a simple tree data structure and build a React app using that data.
-
 ## Setting up the Fluid Framework
 
 This app is designed to use
